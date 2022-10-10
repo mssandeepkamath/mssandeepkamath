@@ -1,6 +1,6 @@
 ### Hi there, Sandeep Kamath here 👋
 
-[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssandeepkamath)](https://github.com/anuraghazra/github-readme-stats)
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssandeepkamath&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working 
 - 🌱 I’m currently learning Android development
