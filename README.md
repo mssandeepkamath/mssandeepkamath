@@ -1,12 +1,13 @@
 ### Hi there, Sandeep Kamath here 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssandeepkamath&count_private=true&show_icons=true)
+*************************************************
 
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning Android development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ms
-- ⚡ Fun fact: ...
+
+
+![msandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mssandeepkamath&count_private=true&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mssandeepkamath&exclude_repo=AR-Ecommerce-Application-,OnenoteApplication&langs_count=8)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mssandeepkamath/count.svg" />
+</p>
 
