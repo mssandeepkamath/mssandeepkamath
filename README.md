@@ -2,5 +2,5 @@
 
 ### Articles:
 
-![Kotlin Vs Java](https://medium.com/@msandeepcip/why-kotlin-over-java-336c50fef9ed)
+https://medium.com/@msandeepcip/why-kotlin-over-java-336c50fef9ed
 
