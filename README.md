@@ -2,6 +2,6 @@
 
 ### Articles:
 
-* https://medium.com/@msandeepcip/why-kotlin-over-java-336c50fef9ed
-* https://medium.com/@msandeepcip/why-view-binding-over-findviewbyid-in-android-9cbbaef2c7ef
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msandeepcip/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msandeepcip/0" alt="Recent Article 0"> 
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msandeepcip/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msandeepcip/1" alt="Recent Article 1"> 
