@@ -1,2 +1,15 @@
+<p align="center">
+<a href="https://play.google.com/store/apps/dev?id=6781046200635814881&hl=en&gl=US"><img alt="Medium" src="https://img.shields.io/badge/GooglePlay-sandroid-lgreen.svg"/></a>
+<a href="https://medium.com/@mssandeepkamath"><img alt="Google Developer Expert" src="https://img.shields.io/badge/Medium-mssandeepkamath-black.svg"/></a> 
+<a href="https://www.linkedin.com/in/mssandeepkamath/"><img alt="Google Developer Expert" src="https://img.shields.io/badge/LinkedIn-mssandeepkamath-blue.svg"/></a> 
+<a href="https://github.com/mssandeepkamath"><img alt="Medium" src="https://img.shields.io/badge/GitHub-mssandeepkamath-black.svg"/></a>
+<a href="https://twitter.com/Sandeep94648142"><img alt="Medium" src="https://img.shields.io/badge/Twitter-Sandeep94648142-blue.svg"/></a>
+<a href="https://leetcode.com/msandeepk/"><img alt="Medium" src="https://img.shields.io/badge/Leetcode-msandeepk-orange.svg"/></a>
+<a href="https://mastodon.social/@msandeepk"><img alt="Medium" src="https://img.shields.io/badge/Mastodon-msandeepk-darkblue.svg"/></a>
+<a href="https://www.youtube.com/channel/UCDfCgec5I82TJHkQp5MMUeg"><img alt="Medium" src="https://img.shields.io/badge/YouTube-mssandeepkamath6210-darkred.svg"/></a>
+<a href="https://www.instagram.com/_mssandeep_kamath_/"><img alt="Medium" src="https://img.shields.io/badge/Instagram-_mssandeepkamath_-pink.svg"/></a>
 
-<a href="https://play.google.com/store/apps/dev?id=6781046200635814881&hl=en&gl=IN"><img src="https://user-images.githubusercontent.com/90695071/228848520-ae1b29fc-e06d-4ad4-bd1b-e5c95025041c.png" width="50" height="50"> <a href="https://medium.com/@mssandeepkamath"><img  src="https://user-images.githubusercontent.com/90695071/228849890-66f5ce6b-9af4-4a63-8419-42e5d85a25f3.png" width="50" height="50"> <a href="https://www.linkedin.com/in/mssandeepkamath/"><img  src="https://user-images.githubusercontent.com/90695071/229115681-2d9172bf-39eb-4b34-8647-f13cf7ecdea0.png" width="50" height="50">
+<br>
+  <br>
+<a href="https://github.com/skydoves"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mssandeepkamath&show_icons=true&include_all_commits=true&count_private=true"/></a>
+</p>
