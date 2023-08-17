@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://play.google.com/store/apps/dev?id=6781046200635814881&hl=en&gl=US"><img alt="Medium" src="https://img.shields.io/badge/GooglePlay-sandroid lab-lgreen.svg"/></a>
+<a href="https://play.google.com/store/apps/dev?id=6781046200635814881&hl=en&gl=US"><img alt="Medium" src="https://img.shields.io/badge/GooglePlay-sandroidLabs-lgreen.svg"/></a>
 <a href="https://medium.com/@mssandeepkamath"><img alt="Google Developer Expert" src="https://img.shields.io/badge/Medium-mssandeepkamath-black.svg"/></a> 
 <a href="https://www.linkedin.com/in/mssandeepkamath/"><img alt="Google Developer Expert" src="https://img.shields.io/badge/LinkedIn-mssandeepkamath-blue.svg"/></a> 
 <a href="https://github.com/mssandeepkamath"><img alt="Medium" src="https://img.shields.io/badge/GitHub-mssandeepkamath-black.svg"/></a>
