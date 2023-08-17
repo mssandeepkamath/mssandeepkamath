@@ -11,5 +11,6 @@
 
 <br>
   <br>
-<a href="https://github.com/mssandeepkamath"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mssandeepkamath&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/mssandeepkamath"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssandeepkamath&hide_progress=true&langs_count=20"/></a>
+
 </p>
