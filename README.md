@@ -36,6 +36,8 @@
 
 ### Other Projects
 
+- [onenote-application-javafx](https://github.com/mssandeepkamath/onenote-application-javafx): OneNote like Productivity Desktop Application using JAVA FX.
 - [discord-go-weather-bot](https://github.com/mssandeepkamath/discord-go-weather-bot): A Discord weather bot using Golang.
 - [tell-me-a-joke-bot](https://github.com/mssandeepkamath/tell-me-a-joke-bot): Say "Tell me a joke" and it reads a joke for you.
+- [malware-scanner](https://github.com/mssandeepkamath/malware-scanner): A Malware Scanner based on Signature Matching and Behavioural Detection using C++,Bash scripts.
 
