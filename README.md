@@ -24,7 +24,7 @@
 - [ai-mate-android](https://github.com/mssandeepkamath/ai-mate-android): The friendly Android app powered by an AI bot.
 - [firect-android](https://github.com/mssandeepkamath/firect-android): Android client for Connecting Farmers to Consumer.
 - [ar-heap-sort-visualizer-android](https://github.com/mssandeepkamath/ar-heap-sort-visualizer-android): AR Android application for heap sort visualization.
-- [notes-app-mvvm-android](https://github.com/mssandeepkamath/notes-app-mvvm-android): Notes taking app, following the MVVM architectural pattern.   
+- [annote-android](https://github.com/mssandeepkamath/annote-android): Notes taking app, following the MVVM architectural pattern.   
 
 ### API Projects
 
