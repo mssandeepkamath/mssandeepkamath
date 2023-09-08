@@ -27,7 +27,7 @@
 
 ### API Projects
 
-- [gsb-matrimony-microservices](https://github.com/mssandeepkamath/gsb-matrimony-microservices): AI Powered Microservices-based matrimony API for the GSB community.
+- [gsb-matrimony-microservices](https://github.com/mssandeepkamath/gsb-matrimony-microservices): Microservices-based matrimony API with AI for the GSB community.
 - [women-in-cloud-rvce-api](https://github.com/mssandeepkamath/women-in-cloud-rvce-api): Spring boot API for Women In Cloud - R V College of Engineering, Center of Excellence.
 - [jwt-authorization-api](https://github.com/mssandeepkamath/jwt-authorization-api): Authentication RESTful API using Kotlin's ktor, Postgresql and JWT.
 - [sms-spam-filter-ml-api](https://github.com/mssandeepkamath/sms-spam-filter-ml-api): Flask API for SMS Spam Detection using ML techniques.
