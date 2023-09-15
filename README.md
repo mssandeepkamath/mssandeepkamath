@@ -7,6 +7,7 @@
 <a href="https://mastodon.social/@msandeepk"><img alt="Medium" src="https://img.shields.io/badge/Mastodon-msandeepk-darkblue.svg"/></a>
 <a href="https://www.youtube.com/channel/UCDfCgec5I82TJHkQp5MMUeg"><img alt="Medium" src="https://img.shields.io/badge/YouTube-mssandeepkamath6210-darkred.svg"/></a>
 <a href="https://www.instagram.com/_mssandeep_kamath_/"><img alt="Medium" src="https://img.shields.io/badge/Instagram-_mssandeepkamath_-pink.svg"/></a>
+<a href="mailto:msandeepcip@gmail.com"><img alt="Medium" src="https://img.shields.io/badge/Gmail-msandeepcip-white.svg"/></a>
 
 <br>
   <br>
