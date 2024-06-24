@@ -20,7 +20,6 @@
 - [annote-android](https://github.com/mssandeepkamath/annote-android): Notes taking app, following the MVVM architectural pattern.
 
 <br>  
-<br>
 
 - [women-in-cloud-rvce-api](https://github.com/mssandeepkamath/women-in-cloud-rvce-api): Spring boot API for Women In Cloud - R V College of Engineering, Center of Excellence.
 - [jwt-authorization-api](https://github.com/mssandeepkamath/jwt-authorization-api): Authentication RESTful API using Kotlin's ktor, Postgresql and JWT.
