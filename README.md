@@ -1,9 +1,4 @@
-<p align="center">
-<a href="https://play.google.com/store/apps/dev?id=6781046200635814881&hl=en&gl=US"><img alt="Medium" src="https://img.shields.io/badge/GooglePlay-sandroidLabs-lgreen.svg"/></a>
-<a href="https://medium.com/@mssandeepkamath"><img alt="Google Developer Expert" src="https://img.shields.io/badge/Medium-mssandeepkamath-black.svg"/></a> 
-
-<br>
-  <br>
+ <br>
 <a href="https://github.com/mssandeepkamath"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mssandeepkamath&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
 
