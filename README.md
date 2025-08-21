@@ -1,9 +1,15 @@
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=py,java,linux,docker,prometheus,grafana,kafka,nginx,postgres,git,spring,fastapi,flask,elasticsearch,mysql,cpp,firebase,kotlin,ktor,androidstudio,postman,opencv&theme=light&perline=11)](https://skillicons.dev)
+
+## Stats
  <br>
 <a href="https://github.com/mssandeepkamath"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=mssandeepkamath&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/mssandeepkamath"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mssandeepkamath&layout=compact"/></a>
 </p>
 
-### Projects
+## Projects
 
+### Frontend - Android, Firebase
 - [studybear-android](https://github.com/mssandeepkamath/studybear-android): Academic productivity platform for IT engineering students.
 - [muzifind-android](https://github.com/mssandeepkamath/muzifind-android): An in-app Music Recognition and Discovery application for Instagram reels, Youtube shorts.
 - [women-in-cloud-rvce-android](https://github.com/mssandeepkamath/women-in-cloud-rvce-android): Android client for Women In Cloud - R V College of Engineering, Center of Excellence.
@@ -14,8 +20,8 @@
 - [ar-heap-sort-visualizer-android](https://github.com/mssandeepkamath/ar-heap-sort-visualizer-android): AR Android application for heap sort visualization.
 - [annote-android](https://github.com/mssandeepkamath/annote-android): Notes taking app, following the MVVM architectural pattern.
 
-<br>  
 
+### Backend - Spring Boot, Fastapi, Flask, Ktor, Go, MySQL, Postgres
 - [women-in-cloud-rvce-api](https://github.com/mssandeepkamath/women-in-cloud-rvce-api): Spring boot API for Women In Cloud - R V College of Engineering, Center of Excellence.
 - [jwt-authorization-api](https://github.com/mssandeepkamath/jwt-authorization-api): Authentication RESTful API using Kotlin's ktor, Postgresql and JWT.
 - [sms-spam-filter-ml-api](https://github.com/mssandeepkamath/sms-spam-filter-ml-api): Flask API for SMS Spam Detection using ML techniques.
